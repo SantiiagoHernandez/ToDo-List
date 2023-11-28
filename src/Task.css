@@ -1,0 +1,40 @@
+#completer {
+    transition: all 500ms ease-in-out;
+}
+
+#completer:hover {
+    background-color: rgb(54, 175, 54);
+    transition: all 500ms ease-in-out;
+}
+
+#delate:hover {
+    background-color: white;
+    transition: all 500ms ease-in-out;
+}
+
+#delate {
+    transition: all 500ms ease-in-out;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+.noComplete{
+    text-decoration: none;
+}
+
+.homeworkContainer {
+    padding: 5px;
+    border-radius: 15px;
+    margin: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px;
+    transition: all 1ms ease-in-out;
+    background-color: #2A1F57;
+}
+
+.completeHomeworkContainer {
+    transition: all 1ms ease-in-out;
+    background-color: rgb(79, 208, 79);
+}
+
